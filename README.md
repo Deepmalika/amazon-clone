@@ -1,1 +1,1 @@
-This is a project based on HTML and Css. 
+This is a project based on HTML and CSS. 
